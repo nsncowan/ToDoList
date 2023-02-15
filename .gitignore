@@ -1,2 +1,3 @@
-obj
-bin
+obj/
+bin/
+ToDoList/bin/Debug/net6.0/ToDoList.dll
