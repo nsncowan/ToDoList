@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4m+yW8EwwByhBZc9okwKcJOSxrSlnolR0m5MRFR6dsVSK4gYTAGY6iTyHMJnonwPef3qdEc9GuZzTxXKduW/ug==",
+  "dgSpecHash": "HeuELppAC1PbPv4QtAMC8b61xeQSMNHciPPk6rBXtcZjG7LbaCp4JjGHc2U8gpLPRJCNt0DsM86ICdw5vlcWLw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nsnco\\OneDrive\\Desktop\\ToDoList.Solution\\ToDoList.Tests\\ToDoList.Tests.csproj",
+  "projectFilePath": "C:\\Users\\nsnco\\OneDrive\\Desktop\\ToDoList.Solution\\todolist.tests\\ToDoList.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nsnco\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",
     "C:\\Users\\nsnco\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
