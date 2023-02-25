@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nsnco\\OneDrive\\Desktop\\ToDoList.Solution\\todolist.tests\\ToDoList.Tests.csproj": {}
+    "C:\\Users\\nsnco\\OneDrive\\Desktop\\ToDoList.Solution\\ToDoList.Tests\\ToDoList.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nsnco\\OneDrive\\Desktop\\ToDoList.Solution\\todolist.tests\\ToDoList.Tests.csproj": {
+    "C:\\Users\\nsnco\\OneDrive\\Desktop\\ToDoList.Solution\\ToDoList.Tests\\ToDoList.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nsnco\\OneDrive\\Desktop\\ToDoList.Solution\\todolist.tests\\ToDoList.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\nsnco\\OneDrive\\Desktop\\ToDoList.Solution\\ToDoList.Tests\\ToDoList.Tests.csproj",
         "projectName": "ToDoList.Tests",
-        "projectPath": "C:\\Users\\nsnco\\OneDrive\\Desktop\\ToDoList.Solution\\todolist.tests\\ToDoList.Tests.csproj",
+        "projectPath": "C:\\Users\\nsnco\\OneDrive\\Desktop\\ToDoList.Solution\\ToDoList.Tests\\ToDoList.Tests.csproj",
         "packagesPath": "C:\\Users\\nsnco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nsnco\\OneDrive\\Desktop\\ToDoList.Solution\\todolist.tests\\obj\\",
+        "outputPath": "C:\\Users\\nsnco\\OneDrive\\Desktop\\ToDoList.Solution\\ToDoList.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nsnco\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jc3R+rya9k3rNgYtg1P1g2qee5Y4nP+bYR+f/rJKv8w4rdxWuyy3IlDYKZNCu9vNE/eZeF5KqqN4CfvDwPoCNg==",
+  "dgSpecHash": "R6jInDZ9Cmi7U5sR+UL9BXlu33OqHEE6DKgMdKLqJHLeBt8D2+d4KujG3mu3lVKATVoZ+T76U07wn+84rshg1A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nsnco\\OneDrive\\Desktop\\ToDoList.Solution\\ToDoList\\ToDoList.csproj",
+  "projectFilePath": "C:\\Users\\nsnco\\OneDrive\\Desktop\\ToDoList.Solution\\todolist\\ToDoList.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
