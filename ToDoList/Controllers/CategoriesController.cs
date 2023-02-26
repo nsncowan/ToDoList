@@ -41,6 +41,7 @@ namespace ToDoList.Controllers
       return View("Show", model);
     }
 
+
     [HttpGet("/categories/{id}")]
     public ActionResult Show(int id)
     {
